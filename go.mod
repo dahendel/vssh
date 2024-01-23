@@ -1,4 +1,4 @@
-module github.com/yahoo/vssh
+module github.com/dahendel/vssh
 
 go 1.21
 
